@@ -118,6 +118,8 @@ public class Main {
         return true;
     }
 
+
+
     static char checkWinner() {
         // Check rows and columns
         for (int i = 0; i < 3; i++) {
