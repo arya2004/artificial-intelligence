@@ -1,10 +1,6 @@
-
 //5. **Iterative Deepening DFS (IDDFS)**: Time \( O(b^d) \), Space \( O(d) \).
-
-
 import java.util.ArrayList;
 import java.util.List;
-
 class Node {
     String name;
     List<Node> children;

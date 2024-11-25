@@ -1,10 +1,5 @@
-
 //7. **Best-First Search (Simplified)**: Time \( O(E \cdot \log V) \), Space \( O(V) \).
-
-
 import java.util.*;
-
-// Custom Node class
 class Node {
     String name;
     int heuristic;

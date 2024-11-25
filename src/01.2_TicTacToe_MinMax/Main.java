@@ -1,8 +1,5 @@
-
-
-
+//TTT
 import java.util.Scanner;
-
 public class Main {
 
     static char[][] board = {

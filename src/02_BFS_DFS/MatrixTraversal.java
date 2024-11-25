@@ -1,5 +1,6 @@
+//1. **Matrix Traversal (BFS)**: Time \( O(V + E) \), Space \( O(V) \).
+//2. **Matrix Traversal (DFS)**: Time \( O(V + E) \), Space \( O(V) \).
 import java.util.*;
-
 public class MatrixTraversal {
 
     // BFS Implementation

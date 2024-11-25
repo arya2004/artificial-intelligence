@@ -1,16 +1,5 @@
-
-
-//6. **A* Algorithm**: Time \( O(E \cdot \log V) \), Space \( O(V) \).
-
-
-import java.util.PriorityQueue;
-import java.util.HashSet;
-import java.util.Set;
-import java.util.List;
-import java.util.Comparator;
-import java.util.ArrayList;
-import java.util.Collections;
-
+//6. A* Algorithm**: Time \( O(E \cdot \log V) \), Space \( O(V) \).
+import java.util.*;
 public class A_star_algorithm{
 
 

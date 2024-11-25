@@ -1,7 +1,5 @@
-
-
+//TTT Rand
 import java.util.*;
-
 public class Random {
     static char[][] board = {
             {' ', ' ', ' '},
