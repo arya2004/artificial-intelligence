@@ -1,6 +1,6 @@
 
-import java.util.Scanner;
-import java.util.Random;
+
+import java.util.*;
 
 public class Random {
     static char[][] board = {
